@@ -1,3 +1,5 @@
+using EFcore.ValueObjects;
+
 namespace EFcore.Domain{
     public class Produto{
         public int Id { get; set; }

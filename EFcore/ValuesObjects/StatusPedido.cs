@@ -1,9 +1,8 @@
-namespace EFcore.ValueObjects;
-
+namespace EFcore.ValueObjects{
 public enum StatusPedido{
-    Solicitado,
-    Aguardando,
-    Producao,
-    finalizado,
-
+        Solicitado,
+        Aguardando,
+        Producao,
+        finalizado,
+    }
 }

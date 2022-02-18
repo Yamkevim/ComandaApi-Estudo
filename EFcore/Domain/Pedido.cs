@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using EFcore.ValueObjects;
 namespace EFcore.Domain{
     public class Pedido{
@@ -7,7 +9,8 @@ namespace EFcore.Domain{
         public DateTime IniciadoEm { get; set; }
         public DateTime FinalizadoEm { get; set; }
         public TipoFrete TipoFrete  { get; set; }
-        public StatuPedido Status { get; set; }
+
+        public StatusPedido Status { get; set; }
         public string Observacao { get; set; }
         public ICollection<PedidoItem> Itens { get; set; }
 
