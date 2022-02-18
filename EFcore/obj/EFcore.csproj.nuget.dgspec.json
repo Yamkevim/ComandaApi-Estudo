@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {}
+    "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {
+    "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
+        "projectUniqueName": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
         "projectName": "EFcore",
-        "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
+        "projectPath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
         "packagesPath": "C:\\Users\\yam.claro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\obj\\",
+        "outputPath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yam.claro\\AppData\\Roaming\\NuGet\\NuGet.Config",

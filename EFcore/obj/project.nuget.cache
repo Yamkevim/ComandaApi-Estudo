@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9B3b+e3uDze1C4WKEJI5hmOPdnXPUS1eAriVFsRg0gDXPAchVxi2/U2zHxCpzjCZnjZC2OkZgR5zdYTXZaNMw==",
+  "dgSpecHash": "VE2FlS3H53UFb/OikIoq6aYEQVl83pThfXynDVBsyq7Ybq+239T+/eos4rNcF0RPF1wHn/6U2m/JzQZQxuqHCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
+  "projectFilePath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yam.claro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\yam.claro\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
