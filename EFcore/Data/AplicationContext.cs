@@ -22,7 +22,7 @@ namespace EFcore.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new ClienteConfiguration());
-            ModuleBuilder.ApplyCAssembly(new )
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationContext).Assembly );
         }
     }
 }

@@ -1,8 +1,3 @@
-C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.csproj.AssemblyReference.cache
-C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.AssemblyInfoInputs.cache
-C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.AssemblyInfo.cs
-C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.csproj.CoreCompileInputs.cache
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\EFcore.exe
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\EFcore.deps.json
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\EFcore.runtimeconfig.json
@@ -55,8 +50,15 @@ C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\ne
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.csproj.AssemblyReference.cache
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.AssemblyInfoInputs.cache
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.AssemblyInfo.cs
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.csproj.CoreCompileInputs.cache
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.csproj.CopyComplete
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.dll
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\ref\EFcore.dll
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.pdb
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.genruntimeconfig.cache
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

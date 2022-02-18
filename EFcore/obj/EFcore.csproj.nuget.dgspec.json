@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {}
+    "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {
+    "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
+        "projectUniqueName": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
         "projectName": "EFcore",
-        "projectPath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
+        "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\EFcore.csproj",
         "packagesPath": "C:\\Users\\yam.claro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\obj\\",
+        "outputPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\EFcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yam.claro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.0, )"
