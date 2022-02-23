@@ -62,3 +62,12 @@ C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\ne
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\obj\Debug\net5.0\EFcore.genruntimeconfig.cache
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Humanizer.dll
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\EFcore\bin\Debug\net5.0\System.Text.Json.dll
