@@ -1,4 +1,4 @@
-# Projeto Comanda
+# Projeto ComandaApp
 
 Em construção
 
