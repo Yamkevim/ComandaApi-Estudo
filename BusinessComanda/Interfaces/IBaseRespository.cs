@@ -4,10 +4,10 @@ namespace BusinessComanda.Interfaces
     public interface IBaseRespository
     {
         
-        EntityBase Get(int Id);
-        void Add(EntityBase Id);
+        Cliente Get(int Id);
+        void Add(Cliente Id);
         void Remove(int Id);
-        void Update(EntityBase Id);
+        void Update(Cliente Id);
 
          
     }

@@ -6848,11 +6848,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\ApiComanda.csproj",
+      "projectUniqueName": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\ApiComanda.csproj",
       "projectName": "ApiComanda",
-      "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\ApiComanda.csproj",
+      "projectPath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\ApiComanda.csproj",
       "packagesPath": "C:\\Users\\yam.claro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\obj\\",
+      "outputPath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yam.claro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6867,11 +6867,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\BusinessComanda\\BusinessComanda.csproj": {
-              "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\BusinessComanda\\BusinessComanda.csproj"
+            "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\BusinessComanda\\BusinessComanda.csproj": {
+              "projectPath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\BusinessComanda\\BusinessComanda.csproj"
             },
-            "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj": {
-              "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj"
+            "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj": {
+              "projectPath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj"
             }
           }
         }

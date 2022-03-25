@@ -9,26 +9,27 @@ namespace ApiComanda.Controllers
 
     public class ClienteController : IBaseRespository
     {
-        [HttpPost]
-        public void Add(EntityBase Id)
+         [HttpPost]
+        public void Add(Cliente Id)
         {
             throw new NotImplementedException();
         }
-        [HttpGet]
-        public EntityBase Get(int Id)
+         [HttpGet]
+        public Cliente Get(int Id)
         {
             throw new NotImplementedException();
         }
-        
-        [HttpDelete]
+
+         [HttpDelete]
         public void Remove(int Id)
         {
             throw new NotImplementedException();
         }
-        [HttpPut]
-        public void Update(EntityBase Id)
+         [HttpPut]
+        public void Update(Cliente Id)
         {
             throw new NotImplementedException();
         }
     }
 }   
+       

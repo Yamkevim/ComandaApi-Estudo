@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kWSpn94stapGDXb6sI5qA0utdDKyee8exDjF6WqdQG/9EvdfqdD6aAZnI4M1G/DJKlRUYcq51XtXnpua6zi5fQ==",
+  "dgSpecHash": "WVaLC3Qaj9G9jMZPvQhOdSO+XwB4Y2oNz8oopCjo+j6Ju03z1WqzCQbpjQpv61o0tvIO7tiiLY+kjvFBbWsiow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\ApiComanda.csproj",
+  "projectFilePath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\ApiComanda\\ApiComanda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yam.claro\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\yam.claro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

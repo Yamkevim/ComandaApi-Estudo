@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlOU5KyzzdUfzrfeRSIytvWPOXxApV9tnjRZnjnuBeqlvoxM1/E0f0muzNP/+p3UMZBG7IWM1+WsnF7p26tMtg==",
+  "dgSpecHash": "Ud4c0rE4Xzhrfvj8GOGvLJvDJvWhP3jHhJ9BK3o/VqapICnSvhCjPJAZADD4RUuqKZwLv0CkK8yP0Hnb95kixw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj",
+  "projectFilePath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yam.claro\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\yam.claro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

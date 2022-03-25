@@ -6611,11 +6611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj",
+      "projectUniqueName": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj",
       "projectName": "InfraComanda",
-      "projectPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj",
+      "projectPath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\InfraComanda.csproj",
       "packagesPath": "C:\\Users\\yam.claro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yam.claro\\Desktop\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\obj\\",
+      "outputPath": "C:\\Users\\yam.claro\\Documents\\Projetos\\DotNetCore\\ProjetoEntity\\InfraComanda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yam.claro\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,17 @@ C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\De
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.pdb
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.genruntimeconfig.cache
 C:\Users\yam.claro\Desktop\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\ref\InfraComanda.dll
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\bin\Debug\net6.0\InfraComanda.deps.json
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\bin\Debug\net6.0\InfraComanda.runtimeconfig.json
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\bin\Debug\net6.0\InfraComanda.dll
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\bin\Debug\net6.0\InfraComanda.pdb
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.csproj.AssemblyReference.cache
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.AssemblyInfoInputs.cache
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.AssemblyInfo.cs
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.csproj.CoreCompileInputs.cache
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.dll
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\refint\InfraComanda.dll
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.pdb
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\InfraComanda.genruntimeconfig.cache
+C:\Users\yam.claro\Documents\Projetos\DotNetCore\ProjetoEntity\InfraComanda\obj\Debug\net6.0\ref\InfraComanda.dll
